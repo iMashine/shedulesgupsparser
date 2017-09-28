@@ -1,2 +1,3 @@
 # shedulesgupsparser
-Програмное обеспечения парса расписания учебного заведения СГУПС из EXCEL формата в JSON.
+ПО для парсинга расписания учебного заведения СГУПС из EXCEL формата в JSON.
+![](https://github.com/iMashine/shedulesgupsparser/blob/master/example.jpg)
